@@ -6,7 +6,7 @@ cd inventory-management
 2. Install dependencies
 bash
 npm install
-# atau
+atau
 yarn install
 3. Konfigurasi environment
 Buat file .env.local:
